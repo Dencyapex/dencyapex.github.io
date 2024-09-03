@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: Internal Security Audit!
+subtitle: A Security Audit Case study for a company.
+author: Confidence Uzodinma
+categories: Audits
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -21,9 +21,17 @@ top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+A Control and compliance audit carried out for a company to review the IT Manager's scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+OVERVIEW OF THE COMPANY'S SECURITY POSTURE.
+
+Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
+
+The manager of the IT department has decided that an internal IT audit needs to be conducted. She's worried about maintaining compliance and business operations as the company grows without a clear plan. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
+
+The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. 
+
+AUDIT GOAL: The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of its security posture.
 
 ## section 1
 
