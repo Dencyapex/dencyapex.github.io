@@ -46,7 +46,9 @@ b) The bullet points under “Additional comments” in the Risk assessment sect
 The links can be found below:
 [The Risk assessment report](https://github.com/Dencyapex/dencyapex.github.io/blob/880c65b741104cae96b2ac2012fd1cd1d9c426e5/assets/Files/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
 
-[The Risk assessment report](
+[Control Categories](https://github.com/Dencyapex/dencyapex.github.io/blob/45fa55ae4363823c1cf31821b0def08f6d7c24f4/assets/Files/Botium%20Toys%20Control%20categories.pdf)
+
+
 {% highlight ruby %}
 def print_hi(name)
 puts "Hi, #{name}"
