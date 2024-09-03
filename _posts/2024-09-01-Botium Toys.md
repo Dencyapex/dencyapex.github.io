@@ -31,7 +31,7 @@ The manager of the IT department has decided that an internal IT audit needs to 
 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. 
 
-# AUDIT GOAL: The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of its security posture.
+**AUDIT GOAL:** The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of its security posture.
 
 In conducting the Security Audit, the following steps were followed:
 
@@ -43,12 +43,11 @@ a) The assets currently managed by the IT department
 
 b) The bullet points under “Additional comments” in the Risk assessment section
 
-{% highlight markdown %}
 The links can be found below:
-[The Risk assessment report Doc](https://github.com/Dencyapex/dencyapex.github.io/blob/880c65b741104cae96b2ac2012fd1cd1d9c426e5/assets/Files/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
+*[The Risk assessment report Doc](https://github.com/Dencyapex/dencyapex.github.io/blob/880c65b741104cae96b2ac2012fd1cd1d9c426e5/assets/Files/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)*
 
-[Control Categories Doc](https://github.com/Dencyapex/dencyapex.github.io/blob/45fa55ae4363823c1cf31821b0def08f6d7c24f4/assets/Files/Botium%20Toys%20Control%20categories.pdf)
-{% endhighlight %}
+*[Control Categories Doc](https://github.com/Dencyapex/dencyapex.github.io/blob/45fa55ae4363823c1cf31821b0def08f6d7c24f4/assets/Files/Botium%20Toys%20Control%20categories.pdf)*
+
 
 {% highlight ruby %}
 def print_hi(name)
