@@ -35,8 +35,8 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 In conducting the Security Audit, the following steps were followed:
 
-## Review Botium Toys: Scope, goals, and risk assessment report, with a focus on
-
+##  Step 1
+# Review Botium Toys: Scope, goals, and risk assessment report, with a focus on
 {% highlight ruby %}
 def print_hi(name)
 puts "Hi, #{name}"
