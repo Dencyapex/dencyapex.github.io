@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internal Security Audit!
-subtitle: A Security Audit Case study for a company.
+subtitle: A Security Audit Case study Botium Toys (USA).
 author: Confidence Uzodinma
 categories: Audits
 banner:
