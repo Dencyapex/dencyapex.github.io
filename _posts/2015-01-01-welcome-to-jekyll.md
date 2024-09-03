@@ -43,6 +43,8 @@ a) The assets currently managed by the IT department
 
 b) The bullet points under “Additional comments” in the Risk assessment section
 
+The links can be found below:
+[Download the doc]()
 
 {% highlight ruby %}
 def print_hi(name)
