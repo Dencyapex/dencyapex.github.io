@@ -23,7 +23,7 @@ sidebar: []
 
 A Control and compliance audit carried out for a company to review the IT Manager's scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
-OVERVIEW OF THE COMPANY'S SECURITY POSTURE.
+# OVERVIEW OF THE COMPANY'S SECURITY POSTURE.
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
