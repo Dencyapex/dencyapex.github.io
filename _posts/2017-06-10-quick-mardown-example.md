@@ -15,11 +15,46 @@ top: 2
 Safespace is a company that specializes in providing IT services for clients. The company received a notification that Several customers of their clients reported that they were not able to access the client company website **www.yummyrecipesforme.com,** and saw the error **“destination port unreachable”** after waiting for the page to load. 
 
 **RESPONDING TO THE SECURITY INCIDENT:**
+
 **STEP 1: Analyse the incident with the Network Analyzer Tool**
 
 As a security analyst, tasked with analyzing the situation and determining which network protocol was affected during this incident. First, I visited the website and also received the error “destination port unreachable.” To troubleshoot the issue, I load the network analyzer tool, **tcpdump,** and attempt to load the webpage again. 
 To load the webpage, My browser sends a query to a DNS server via the UDP protocol to retrieve the IP address for the website's domain name; this is part of the DNS protocol. My browser then uses this IP address as the destination IP for sending an HTTPS request to the webserver to display the webpage. The analyzer shows that when I send UDP packets to the DNS server, I receive **ICMP** packets containing the error message: “udp port 53 unreachable.” 
 
+
+tcpdump log
+------------
+
+In the tcpdump log, you find the following information:
+
+        13:24:32.192571 IP 192.51.100.15.52444 › 203.0.113.2. domain: 35084+ A?
+        yummyrecipesforme.com. (24)
+        13:24:36.098564 IP 203.0.113.2 > 192.51.100.15: ICMP 203.0.113.2
+        udp port 53 unreachable length 254
+
+        
+        13:26:32.192571 IP 192.51.100.15.52444 › 203.0.113.2.domain: 35084+ A?
+        yummyrecipesforme.com. (24)
+        13:27:15.934126 IP 203.0.113.2 > 192.51.100.15: ICMP 203.0.113.2
+        udp port 53 unreachable length 320
+
+        13:28:32.192571 IP 192.51.100.15.52444 › 203.0.113.2.domain: 35084+ A?
+        yummyrecipesforme.com. (24)
+        13:28:50.022967 IP 203.0.113.2 > 192.51.100.15: ICMP 203.0.113.2
+        udp port 53 unreachable length 150
+        
+        uncover pot
+        stir
+        cover pot
+        balance wooden spoon precariously on pot handle
+        wait 10 minutes
+        goto first step (or shut off burner when done)
+
+Here's a numbered list:
+
+ 1. first item
+ 2. second item
+ 3. third item
 
 Paragraphs are separated by a blank line.
 
@@ -53,12 +88,14 @@ Here's a numbered list:
  1. first item
  2. second item
  3. third item
+    
 
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
 
     # Let me re-iterate ...
     for i in 1 .. 10 { do-something(i) }
+
 
 As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
