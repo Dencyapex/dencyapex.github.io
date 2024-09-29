@@ -25,7 +25,7 @@ To load the webpage, My browser sends a query to a DNS server via the UDP protoc
 tcpdump log
 ------------
 
-In the tcpdump log, you find the following information:
+The tcpdump log showing the error network details and error message:
 
         13:24:32.192571 IP 192.51.100.15.52444 › 203.0.113.2. domain: 35084+ A?
         yummyrecipesforme.com. (24)
@@ -45,7 +45,8 @@ In the tcpdump log, you find the following information:
         
       
 
-Here's a numbered list:
+Here'In the tcpdump log, I found the following information:
+
 
  1. first item
  2. second item
