@@ -17,7 +17,8 @@ Safespace is a company that specializes in providing IT services for clients. Th
 **RESPONDING TO THE SECURITY INCIDENT:**
 **STEP 1: Analyse the incident with the Network Analyzer Tool**
 
-As a security analyst, tasked with analyzing the situation and determining which network protocol was affected during this incident. First, I visited the website and also received the error “destination port unreachable.” To troubleshoot the issue, I load the network analyzer tool, **tcpdump,** and attempt to load the webpage again. To load the webpage, My browser sends a query to a DNS server via the UDP protocol to retrieve the IP address for the website's domain name; this is part of the DNS protocol. My browser then uses this IP address as the destination IP for sending an HTTPS request to the webserver to display the webpage  The analyzer shows that when I send UDP packets to the DNS server, I receive **ICMP** packets containing the error message: “udp port 53 unreachable.” 
+As a security analyst, tasked with analyzing the situation and determining which network protocol was affected during this incident. First, I visited the website and also received the error “destination port unreachable.” To troubleshoot the issue, I load the network analyzer tool, **tcpdump,** and attempt to load the webpage again. 
+To load the webpage, My browser sends a query to a DNS server via the UDP protocol to retrieve the IP address for the website's domain name; this is part of the DNS protocol. My browser then uses this IP address as the destination IP for sending an HTTPS request to the webserver to display the webpage. The analyzer shows that when I send UDP packets to the DNS server, I receive **ICMP** packets containing the error message: “udp port 53 unreachable.” 
 
 
 Paragraphs are separated by a blank line.
