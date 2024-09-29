@@ -43,12 +43,7 @@ In the tcpdump log, you find the following information:
         13:28:50.022967 IP 203.0.113.2 > 192.51.100.15: ICMP 203.0.113.2
         udp port 53 unreachable length 150
         
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
+      
 
 Here's a numbered list:
 
