@@ -73,6 +73,10 @@ Below in the tcpdump log, I found the following information to help my analysis 
  7. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
 
     
+Now that I have captured data packets using a network analyzer tool, I need to identify which network protocol and service were impacted by this incident. Then write a follow-up report. 
+As an analyst, One can inspect network traffic and network data to determine what is causing network-related issues during cybersecurity incidents. 
+
+
 
 Paragraphs are separated by a blank line.
 
