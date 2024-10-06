@@ -1,9 +1,9 @@
 ---
 layout: post
-title: An exhibit of Markdown
-subtitle: Each post also has a subtitle
+title: Analyzing network attacks
+subtitle: Identifying and Reviewing Network Attacks
 categories: markdown
-tags: [example, markdown]
+tags: [Network attacks, markdown]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
