@@ -3,7 +3,7 @@ layout: post
 title: Analyzing network attacks
 subtitle: Identifying and Reviewing Network Attacks
 categories: markdown
-tags: [Network attacks, markdown]
+tags: [Network attacks, Packets, Packet Sniffing, Malicious attacks]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
