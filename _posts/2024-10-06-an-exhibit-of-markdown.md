@@ -8,7 +8,7 @@ tags: [Network attacks, Packets, Packet Sniffing, Malicious attacks]
 
 This case study demonstrates an example of some of the [Network attacks][1] or security issues companies experience that may likely prevent their customer from accessing the company’s website. We will  identify the likely cause of the service interruption. Then, we will explain how the attack occurred and the negative impact such occurrences have on the website.
 
-## An exhibit of Markdown
+## Case Study Scenario
 
 
 
